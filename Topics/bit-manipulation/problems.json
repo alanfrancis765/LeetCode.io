@@ -4,6 +4,27 @@
     "slug": "bit-manipulation",
     "name": "Bit Manipulation"
   },
-  "updatedAt": "2026-07-18T13:35:33.954Z",
-  "problems": []
+  "updatedAt": "2026-07-18T13:37:38.464Z",
+  "problems": [
+    {
+      "frontendId": "137",
+      "title": "Single Number II",
+      "slug": "single-number-ii",
+      "problemName": "0137-single-number-ii",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/single-number-ii/",
+      "folderPath": "0137-single-number-ii/",
+      "readmePath": "0137-single-number-ii/README.md",
+      "solutions": [
+        {
+          "language": "Python",
+          "extension": ".py",
+          "filename": "0137-single-number-ii.py",
+          "path": "0137-single-number-ii/0137-single-number-ii.py",
+          "sha": "3eedea67972e65b9a280aa706f3a8213ac1f6f37",
+          "lastSyncedAt": "2026-07-18T13:37:38.464Z"
+        }
+      ]
+    }
+  ]
 }
