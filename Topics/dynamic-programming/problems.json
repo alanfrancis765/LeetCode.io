@@ -4,6 +4,27 @@
     "slug": "dynamic-programming",
     "name": "Dynamic Programming"
   },
-  "updatedAt": "2026-07-18T13:35:33.954Z",
-  "problems": []
+  "updatedAt": "2026-07-18T13:36:31.891Z",
+  "problems": [
+    {
+      "frontendId": "322",
+      "title": "Coin Change",
+      "slug": "coin-change",
+      "problemName": "0322-coin-change",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/coin-change/",
+      "folderPath": "0322-coin-change/",
+      "readmePath": "0322-coin-change/README.md",
+      "solutions": [
+        {
+          "language": "Python",
+          "extension": ".py",
+          "filename": "0322-coin-change.py",
+          "path": "0322-coin-change/0322-coin-change.py",
+          "sha": "ed149dac413f2cd27a28bdaa29cf4a26518b1008",
+          "lastSyncedAt": "2026-07-18T13:36:31.891Z"
+        }
+      ]
+    }
+  ]
 }
