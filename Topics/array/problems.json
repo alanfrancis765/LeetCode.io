@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-07-18T13:36:20.549Z",
+  "updatedAt": "2026-07-18T13:36:31.891Z",
   "problems": [
     {
       "frontendId": "200",
@@ -23,6 +23,26 @@
           "path": "0200-number-of-islands/0200-number-of-islands.py",
           "sha": "4128e8918450e303296e842022a1774fc8a6a39c",
           "lastSyncedAt": "2026-07-18T13:36:20.549Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "322",
+      "title": "Coin Change",
+      "slug": "coin-change",
+      "problemName": "0322-coin-change",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/coin-change/",
+      "folderPath": "0322-coin-change/",
+      "readmePath": "0322-coin-change/README.md",
+      "solutions": [
+        {
+          "language": "Python",
+          "extension": ".py",
+          "filename": "0322-coin-change.py",
+          "path": "0322-coin-change/0322-coin-change.py",
+          "sha": "ed149dac413f2cd27a28bdaa29cf4a26518b1008",
+          "lastSyncedAt": "2026-07-18T13:36:31.891Z"
         }
       ]
     },
