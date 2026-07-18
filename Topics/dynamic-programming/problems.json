@@ -4,7 +4,7 @@
     "slug": "dynamic-programming",
     "name": "Dynamic Programming"
   },
-  "updatedAt": "2026-07-18T13:36:45.162Z",
+  "updatedAt": "2026-07-18T13:36:50.763Z",
   "problems": [
     {
       "frontendId": "198",
@@ -63,6 +63,26 @@
           "path": "0322-coin-change/0322-coin-change.py",
           "sha": "ed149dac413f2cd27a28bdaa29cf4a26518b1008",
           "lastSyncedAt": "2026-07-18T13:36:31.891Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "516",
+      "title": "Longest Palindromic Subsequence",
+      "slug": "longest-palindromic-subsequence",
+      "problemName": "0516-longest-palindromic-subsequence",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/longest-palindromic-subsequence/",
+      "folderPath": "0516-longest-palindromic-subsequence/",
+      "readmePath": "0516-longest-palindromic-subsequence/README.md",
+      "solutions": [
+        {
+          "language": "Python",
+          "extension": ".py",
+          "filename": "0516-longest-palindromic-subsequence.py",
+          "path": "0516-longest-palindromic-subsequence/0516-longest-palindromic-subsequence.py",
+          "sha": "f2d29a7e2786d6dcc150aac0e570427b2d72faa5",
+          "lastSyncedAt": "2026-07-18T13:36:50.763Z"
         }
       ]
     }
