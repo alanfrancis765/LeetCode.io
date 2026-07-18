@@ -4,7 +4,7 @@
     "slug": "dynamic-programming",
     "name": "Dynamic Programming"
   },
-  "updatedAt": "2026-07-18T13:37:46.924Z",
+  "updatedAt": "2026-07-18T13:38:09.221Z",
   "problems": [
     {
       "frontendId": "198",
@@ -142,7 +142,7 @@
           "filename": "1143-longest-common-subsequence.py",
           "path": "1143-longest-common-subsequence/1143-longest-common-subsequence.py",
           "sha": "7398766186b446220e54e51f428e95d5f2524c85",
-          "lastSyncedAt": "2026-07-18T13:37:46.924Z"
+          "lastSyncedAt": "2026-07-18T13:38:09.221Z"
         }
       ]
     }
