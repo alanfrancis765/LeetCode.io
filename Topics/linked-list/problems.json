@@ -4,6 +4,27 @@
     "slug": "linked-list",
     "name": "Linked List"
   },
-  "updatedAt": "2026-07-18T13:35:33.954Z",
-  "problems": []
+  "updatedAt": "2026-07-18T13:38:19.690Z",
+  "problems": [
+    {
+      "frontendId": "21",
+      "title": "Merge Two Sorted Lists",
+      "slug": "merge-two-sorted-lists",
+      "problemName": "0021-merge-two-sorted-lists",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/merge-two-sorted-lists/",
+      "folderPath": "0021-merge-two-sorted-lists/",
+      "readmePath": "0021-merge-two-sorted-lists/README.md",
+      "solutions": [
+        {
+          "language": "Python",
+          "extension": ".py",
+          "filename": "0021-merge-two-sorted-lists.py",
+          "path": "0021-merge-two-sorted-lists/0021-merge-two-sorted-lists.py",
+          "sha": "0878d3f6aafc17d40c3a4f9a14ee61971ca494ec",
+          "lastSyncedAt": "2026-07-18T13:38:19.690Z"
+        }
+      ]
+    }
+  ]
 }
