@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-07-18T13:36:03.549Z",
+  "updatedAt": "2026-07-18T13:36:13.201Z",
   "problems": [
     {
       "frontendId": "463",
@@ -43,6 +43,26 @@
           "path": "0733-flood-fill/0733-flood-fill.py",
           "sha": "f3b7ae180fa406fd3aab9cdab504140e8bca7db9",
           "lastSyncedAt": "2026-07-18T13:36:03.549Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "994",
+      "title": "Rotting Oranges",
+      "slug": "rotting-oranges",
+      "problemName": "0994-rotting-oranges",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/rotting-oranges/",
+      "folderPath": "0994-rotting-oranges/",
+      "readmePath": "0994-rotting-oranges/README.md",
+      "solutions": [
+        {
+          "language": "Python",
+          "extension": ".py",
+          "filename": "0994-rotting-oranges.py",
+          "path": "0994-rotting-oranges/0994-rotting-oranges.py",
+          "sha": "f5ab1daf78c31afd30ec8478d75f86c849db01c8",
+          "lastSyncedAt": "2026-07-18T13:36:13.201Z"
         }
       ]
     }
