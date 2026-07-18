@@ -4,8 +4,28 @@
     "slug": "breadth-first-search",
     "name": "Breadth-First Search"
   },
-  "updatedAt": "2026-07-18T13:36:31.891Z",
+  "updatedAt": "2026-07-18T13:37:58.502Z",
   "problems": [
+    {
+      "frontendId": "101",
+      "title": "Symmetric Tree",
+      "slug": "symmetric-tree",
+      "problemName": "0101-symmetric-tree",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/symmetric-tree/",
+      "folderPath": "0101-symmetric-tree/",
+      "readmePath": "0101-symmetric-tree/README.md",
+      "solutions": [
+        {
+          "language": "Python",
+          "extension": ".py",
+          "filename": "0101-symmetric-tree.py",
+          "path": "0101-symmetric-tree/0101-symmetric-tree.py",
+          "sha": "821b6f18ff3f70d7c9c1a546e54b45c2cc3acbde",
+          "lastSyncedAt": "2026-07-18T13:37:58.502Z"
+        }
+      ]
+    },
     {
       "frontendId": "200",
       "title": "Number of Islands",
