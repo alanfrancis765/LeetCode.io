@@ -4,7 +4,7 @@
     "slug": "dynamic-programming",
     "name": "Dynamic Programming"
   },
-  "updatedAt": "2026-07-18T13:37:11.228Z",
+  "updatedAt": "2026-07-18T13:37:17.735Z",
   "problems": [
     {
       "frontendId": "198",
@@ -43,6 +43,26 @@
           "path": "0213-house-robber-ii/0213-house-robber-ii.py",
           "sha": "ff42b91302ef38646f7b30629f0b24b392e2217e",
           "lastSyncedAt": "2026-07-18T13:36:39.678Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "241",
+      "title": "Different Ways to Add Parentheses",
+      "slug": "different-ways-to-add-parentheses",
+      "problemName": "0241-different-ways-to-add-parentheses",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/different-ways-to-add-parentheses/",
+      "folderPath": "0241-different-ways-to-add-parentheses/",
+      "readmePath": "0241-different-ways-to-add-parentheses/README.md",
+      "solutions": [
+        {
+          "language": "Python",
+          "extension": ".py",
+          "filename": "0241-different-ways-to-add-parentheses.py",
+          "path": "0241-different-ways-to-add-parentheses/0241-different-ways-to-add-parentheses.py",
+          "sha": "5556ab5d10d7b05f3c7899ea0e069a7854c336f4",
+          "lastSyncedAt": "2026-07-18T13:37:17.735Z"
         }
       ]
     },
