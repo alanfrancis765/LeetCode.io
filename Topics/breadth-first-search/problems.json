@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "topic": {
+    "slug": "breadth-first-search",
+    "name": "Breadth-First Search"
+  },
+  "updatedAt": "2026-07-18T13:35:49.462Z",
+  "problems": [
+    {
+      "frontendId": "463",
+      "title": "Island Perimeter",
+      "slug": "island-perimeter",
+      "problemName": "0463-island-perimeter",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/island-perimeter/",
+      "folderPath": "0463-island-perimeter/",
+      "readmePath": "0463-island-perimeter/README.md",
+      "solutions": [
+        {
+          "language": "Python",
+          "extension": ".py",
+          "filename": "0463-island-perimeter.py",
+          "path": "0463-island-perimeter/0463-island-perimeter.py",
+          "sha": "9368f4e274f89164136821e144e9b69a7ab63c3b",
+          "lastSyncedAt": "2026-07-18T13:35:49.462Z"
+        }
+      ]
+    }
+  ]
+}
