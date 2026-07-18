@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-07-18T13:36:31.891Z",
+  "updatedAt": "2026-07-18T13:36:39.678Z",
   "problems": [
     {
       "frontendId": "200",
@@ -23,6 +23,26 @@
           "path": "0200-number-of-islands/0200-number-of-islands.py",
           "sha": "4128e8918450e303296e842022a1774fc8a6a39c",
           "lastSyncedAt": "2026-07-18T13:36:20.549Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "213",
+      "title": "House Robber II",
+      "slug": "house-robber-ii",
+      "problemName": "0213-house-robber-ii",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/house-robber-ii/",
+      "folderPath": "0213-house-robber-ii/",
+      "readmePath": "0213-house-robber-ii/README.md",
+      "solutions": [
+        {
+          "language": "Python",
+          "extension": ".py",
+          "filename": "0213-house-robber-ii.py",
+          "path": "0213-house-robber-ii/0213-house-robber-ii.py",
+          "sha": "ff42b91302ef38646f7b30629f0b24b392e2217e",
+          "lastSyncedAt": "2026-07-18T13:36:39.678Z"
         }
       ]
     },
