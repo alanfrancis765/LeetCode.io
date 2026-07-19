@@ -4,7 +4,7 @@
     "slug": "breadth-first-search",
     "name": "Breadth-First Search"
   },
-  "updatedAt": "2026-07-19T03:17:20.081Z",
+  "updatedAt": "2026-07-19T05:41:45.111Z",
   "problems": [
     {
       "frontendId": "101",
@@ -63,6 +63,26 @@
           "path": "0207-course-schedule/0207-course-schedule.py",
           "sha": "e4b16c54f0746e3e9b96a01a8196ac5771270df8",
           "lastSyncedAt": "2026-07-19T03:17:20.081Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "210",
+      "title": "Course Schedule II",
+      "slug": "course-schedule-ii",
+      "problemName": "0210-course-schedule-ii",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/course-schedule-ii/",
+      "folderPath": "0210-course-schedule-ii/",
+      "readmePath": "0210-course-schedule-ii/README.md",
+      "solutions": [
+        {
+          "language": "Python",
+          "extension": ".py",
+          "filename": "0210-course-schedule-ii.py",
+          "path": "0210-course-schedule-ii/0210-course-schedule-ii.py",
+          "sha": "132cc93c321644c8534539f4b3d4cc5ba8df2034",
+          "lastSyncedAt": "2026-07-19T05:41:45.111Z"
         }
       ]
     },
