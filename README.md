@@ -6,17 +6,16 @@ My LeetCode journey — solutions to algorithmic and data structure problems wit
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 19 | 9 | 10 | 0 |
+| 20 | 9 | 11 | 0 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 1 days | 2 days | 15 |
+| 2 days | 2 days | 16 |
 
 | Date | Problems |
 | --- | ---: |
-| 2026-02-19 | 1 |
 | 2026-02-22 | 1 |
 | 2026-02-23 | 1 |
 | 2026-02-25 | 1 |
@@ -30,21 +29,22 @@ My LeetCode journey — solutions to algorithmic and data structure problems wit
 | 2026-07-11 | 1 |
 | 2026-07-15 | 1 |
 | 2026-07-18 | 3 |
+| 2026-07-19 | 1 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 11 | 58% |
-| Dynamic Programming | 7 | 37% |
-| Breadth-First Search | 6 | 32% |
-| Depth-First Search | 4 | 21% |
-| Matrix | 4 | 21% |
-| String | 4 | 21% |
-| Recursion | 3 | 16% |
-| Two Pointers | 3 | 16% |
-| Bit Manipulation | 2 | 11% |
-| Linked List | 2 | 11% |
+| Array | 11 | 55% |
+| Breadth-First Search | 7 | 35% |
+| Dynamic Programming | 7 | 35% |
+| Depth-First Search | 5 | 25% |
+| Matrix | 4 | 20% |
+| String | 4 | 20% |
+| Recursion | 3 | 15% |
+| Two Pointers | 3 | 15% |
+| Bit Manipulation | 2 | 10% |
+| Linked List | 2 | 10% |
 
 ## Topics
 
@@ -55,11 +55,11 @@ My LeetCode journey — solutions to algorithmic and data structure problems wit
 | [Binary Search](Topics/binary-search/) | 0 |
 | [Binary Tree](Topics/binary-tree/) | 1 |
 | [Bit Manipulation](Topics/bit-manipulation/) | 2 |
-| [Breadth-First Search](Topics/breadth-first-search/) | 6 |
+| [Breadth-First Search](Topics/breadth-first-search/) | 7 |
 | [Data Structures](Topics/data-structures/) | 0 |
-| [Depth-First Search](Topics/depth-first-search/) | 4 |
+| [Depth-First Search](Topics/depth-first-search/) | 5 |
 | [Dynamic Programming](Topics/dynamic-programming/) | 7 |
-| [Graph](Topics/graph/) | 0 |
+| [Graph Theory](Topics/graph/) | 1 |
 | [Hash Table](Topics/hash-table/) | 1 |
 | [Heap](Topics/heap/) | 0 |
 | [Linked List](Topics/linked-list/) | 2 |
@@ -70,6 +70,9 @@ My LeetCode journey — solutions to algorithmic and data structure problems wit
 | [Sorting](Topics/sorting/) | 1 |
 | [Stack](Topics/stack/) | 0 |
 | [String](Topics/string/) | 4 |
+| [String Matching](Topics/string-matching/) | 1 |
+| [Topological Sort](Topics/topological-sort/) | 1 |
+| [Tree](Topics/tree/) | 1 |
 | [Two Pointers](Topics/two-pointers/) | 3 |
 | [Union-Find](Topics/union-find/) | 1 |
 <!---LeetHub Summary End-->
