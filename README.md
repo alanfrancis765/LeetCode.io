@@ -6,7 +6,7 @@ My LeetCode journey — solutions to algorithmic and data structure problems wit
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 20 | 9 | 11 | 0 |
+| 21 | 9 | 12 | 0 |
 
 ## Activity
 
@@ -29,22 +29,22 @@ My LeetCode journey — solutions to algorithmic and data structure problems wit
 | 2026-07-11 | 1 |
 | 2026-07-15 | 1 |
 | 2026-07-18 | 3 |
-| 2026-07-19 | 1 |
+| 2026-07-19 | 2 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 11 | 55% |
-| Breadth-First Search | 7 | 35% |
-| Dynamic Programming | 7 | 35% |
-| Depth-First Search | 5 | 25% |
-| Matrix | 4 | 20% |
-| String | 4 | 20% |
-| Recursion | 3 | 15% |
-| Two Pointers | 3 | 15% |
+| Array | 11 | 52% |
+| Breadth-First Search | 8 | 38% |
+| Dynamic Programming | 7 | 33% |
+| Depth-First Search | 6 | 29% |
+| Matrix | 4 | 19% |
+| String | 4 | 19% |
+| Recursion | 3 | 14% |
+| Two Pointers | 3 | 14% |
 | Bit Manipulation | 2 | 10% |
-| Linked List | 2 | 10% |
+| Graph Theory | 2 | 10% |
 
 ## Topics
 
@@ -55,11 +55,11 @@ My LeetCode journey — solutions to algorithmic and data structure problems wit
 | [Binary Search](Topics/binary-search/) | 0 |
 | [Binary Tree](Topics/binary-tree/) | 1 |
 | [Bit Manipulation](Topics/bit-manipulation/) | 2 |
-| [Breadth-First Search](Topics/breadth-first-search/) | 7 |
+| [Breadth-First Search](Topics/breadth-first-search/) | 8 |
 | [Data Structures](Topics/data-structures/) | 0 |
-| [Depth-First Search](Topics/depth-first-search/) | 5 |
+| [Depth-First Search](Topics/depth-first-search/) | 6 |
 | [Dynamic Programming](Topics/dynamic-programming/) | 7 |
-| [Graph Theory](Topics/graph/) | 1 |
+| [Graph Theory](Topics/graph/) | 2 |
 | [Hash Table](Topics/hash-table/) | 1 |
 | [Heap](Topics/heap/) | 0 |
 | [Linked List](Topics/linked-list/) | 2 |
@@ -71,7 +71,7 @@ My LeetCode journey — solutions to algorithmic and data structure problems wit
 | [Stack](Topics/stack/) | 0 |
 | [String](Topics/string/) | 4 |
 | [String Matching](Topics/string-matching/) | 1 |
-| [Topological Sort](Topics/topological-sort/) | 1 |
+| [Topological Sort](Topics/topological-sort/) | 2 |
 | [Tree](Topics/tree/) | 1 |
 | [Two Pointers](Topics/two-pointers/) | 3 |
 | [Union-Find](Topics/union-find/) | 1 |
