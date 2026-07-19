@@ -2,8 +2,29 @@
   "version": 1,
   "topic": {
     "slug": "graph",
-    "name": "Graph"
+    "name": "Graph Theory"
   },
-  "updatedAt": "2026-07-18T13:35:33.954Z",
-  "problems": []
+  "updatedAt": "2026-07-19T03:17:20.081Z",
+  "problems": [
+    {
+      "frontendId": "207",
+      "title": "Course Schedule",
+      "slug": "course-schedule",
+      "problemName": "0207-course-schedule",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/course-schedule/",
+      "folderPath": "0207-course-schedule/",
+      "readmePath": "0207-course-schedule/README.md",
+      "solutions": [
+        {
+          "language": "Python",
+          "extension": ".py",
+          "filename": "0207-course-schedule.py",
+          "path": "0207-course-schedule/0207-course-schedule.py",
+          "sha": "e4b16c54f0746e3e9b96a01a8196ac5771270df8",
+          "lastSyncedAt": "2026-07-19T03:17:20.081Z"
+        }
+      ]
+    }
+  ]
 }
