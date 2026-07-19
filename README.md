@@ -73,3 +73,23 @@ My LeetCode journey — solutions to algorithmic and data structure problems wit
 | [Two Pointers](Topics/two-pointers/) | 3 |
 | [Union-Find](Topics/union-find/) | 1 |
 <!---LeetHub Summary End-->
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Depth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0207-course-schedule](https://github.com/alanfrancis765/LeetCode.io/tree/main/0207-course-schedule/) | Medium |
+## Breadth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0207-course-schedule](https://github.com/alanfrancis765/LeetCode.io/tree/main/0207-course-schedule/) | Medium |
+## Graph Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0207-course-schedule](https://github.com/alanfrancis765/LeetCode.io/tree/main/0207-course-schedule/) | Medium |
+## Topological Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0207-course-schedule](https://github.com/alanfrancis765/LeetCode.io/tree/main/0207-course-schedule/) | Medium |
+<!---LeetCode Topics End-->
