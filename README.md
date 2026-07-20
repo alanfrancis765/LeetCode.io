@@ -6,17 +6,16 @@ My LeetCode journey — solutions to algorithmic and data structure problems wit
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 21 | 9 | 12 | 0 |
+| 22 | 9 | 13 | 0 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 2 days | 2 days | 16 |
+| 3 days | 3 days | 17 |
 
 | Date | Problems |
 | --- | ---: |
-| 2026-02-22 | 1 |
 | 2026-02-23 | 1 |
 | 2026-02-25 | 1 |
 | 2026-03-03 | 1 |
@@ -30,21 +29,22 @@ My LeetCode journey — solutions to algorithmic and data structure problems wit
 | 2026-07-15 | 1 |
 | 2026-07-18 | 3 |
 | 2026-07-19 | 2 |
+| 2026-07-20 | 1 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 11 | 52% |
-| Breadth-First Search | 8 | 38% |
-| Dynamic Programming | 7 | 33% |
-| Depth-First Search | 6 | 29% |
-| Matrix | 4 | 19% |
-| String | 4 | 19% |
+| Array | 11 | 50% |
+| Breadth-First Search | 9 | 41% |
+| Dynamic Programming | 7 | 32% |
+| Depth-First Search | 6 | 27% |
+| Matrix | 4 | 18% |
+| String | 4 | 18% |
 | Recursion | 3 | 14% |
 | Two Pointers | 3 | 14% |
-| Bit Manipulation | 2 | 10% |
-| Graph Theory | 2 | 10% |
+| Binary Tree | 2 | 9% |
+| Bit Manipulation | 2 | 9% |
 
 ## Topics
 
@@ -53,9 +53,9 @@ My LeetCode journey — solutions to algorithmic and data structure problems wit
 | [Array](Topics/array/) | 11 |
 | [Backtracking](Topics/backtracking/) | 0 |
 | [Binary Search](Topics/binary-search/) | 0 |
-| [Binary Tree](Topics/binary-tree/) | 1 |
+| [Binary Tree](Topics/binary-tree/) | 2 |
 | [Bit Manipulation](Topics/bit-manipulation/) | 2 |
-| [Breadth-First Search](Topics/breadth-first-search/) | 8 |
+| [Breadth-First Search](Topics/breadth-first-search/) | 9 |
 | [Data Structures](Topics/data-structures/) | 0 |
 | [Depth-First Search](Topics/depth-first-search/) | 6 |
 | [Dynamic Programming](Topics/dynamic-programming/) | 7 |
@@ -72,7 +72,7 @@ My LeetCode journey — solutions to algorithmic and data structure problems wit
 | [String](Topics/string/) | 4 |
 | [String Matching](Topics/string-matching/) | 1 |
 | [Topological Sort](Topics/topological-sort/) | 2 |
-| [Tree](Topics/tree/) | 1 |
+| [Tree](Topics/tree/) | 2 |
 | [Two Pointers](Topics/two-pointers/) | 3 |
 | [Union-Find](Topics/union-find/) | 1 |
 <!---LeetHub Summary End-->
