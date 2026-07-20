@@ -4,7 +4,7 @@
     "slug": "depth-first-search",
     "name": "Depth-First Search"
   },
-  "updatedAt": "2026-07-19T05:41:57.415Z",
+  "updatedAt": "2026-07-20T14:51:14.811Z",
   "problems": [
     {
       "frontendId": "101",
@@ -123,6 +123,26 @@
           "path": "0733-flood-fill/0733-flood-fill.py",
           "sha": "f3b7ae180fa406fd3aab9cdab504140e8bca7db9",
           "lastSyncedAt": "2026-07-18T13:36:03.549Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1448",
+      "title": "Count Good Nodes in Binary Tree",
+      "slug": "count-good-nodes-in-binary-tree",
+      "problemName": "1448-count-good-nodes-in-binary-tree",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/count-good-nodes-in-binary-tree/",
+      "folderPath": "1448-count-good-nodes-in-binary-tree/",
+      "readmePath": "1448-count-good-nodes-in-binary-tree/README.md",
+      "solutions": [
+        {
+          "language": "Python",
+          "extension": ".py",
+          "filename": "1448-count-good-nodes-in-binary-tree.py",
+          "path": "1448-count-good-nodes-in-binary-tree/1448-count-good-nodes-in-binary-tree.py",
+          "sha": "95def3f61e9eb9580f7c21319c8d35df28c48807",
+          "lastSyncedAt": "2026-07-20T14:51:14.811Z"
         }
       ]
     }
