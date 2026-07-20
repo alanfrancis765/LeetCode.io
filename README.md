@@ -88,6 +88,7 @@ My LeetCode journey — solutions to algorithmic and data structure problems wit
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0102-binary-tree-level-order-traversal](https://github.com/alanfrancis765/LeetCode.io/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0207-course-schedule](https://github.com/alanfrancis765/LeetCode.io/tree/main/0207-course-schedule/) | Medium |
 | [0210-course-schedule-ii](https://github.com/alanfrancis765/LeetCode.io/tree/main/0210-course-schedule-ii/) | Medium |
 ## Graph Theory
@@ -115,5 +116,10 @@ My LeetCode journey — solutions to algorithmic and data structure problems wit
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0102-binary-tree-level-order-traversal](https://github.com/alanfrancis765/LeetCode.io/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/alanfrancis765/LeetCode.io/tree/main/0589-n-ary-tree-preorder-traversal/) | Easy |
+## Binary Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0102-binary-tree-level-order-traversal](https://github.com/alanfrancis765/LeetCode.io/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 <!---LeetCode Topics End-->
