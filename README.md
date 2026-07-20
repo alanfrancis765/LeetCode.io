@@ -99,4 +99,12 @@ My LeetCode journey — solutions to algorithmic and data structure problems wit
 | ------- | ------- |
 | [0207-course-schedule](https://github.com/alanfrancis765/LeetCode.io/tree/main/0207-course-schedule/) | Medium |
 | [0210-course-schedule-ii](https://github.com/alanfrancis765/LeetCode.io/tree/main/0210-course-schedule-ii/) | Medium |
+## Array
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0134-gas-station](https://github.com/alanfrancis765/LeetCode.io/tree/main/0134-gas-station/) | Medium |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0134-gas-station](https://github.com/alanfrancis765/LeetCode.io/tree/main/0134-gas-station/) | Medium |
 <!---LeetCode Topics End-->
