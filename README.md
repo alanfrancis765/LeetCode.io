@@ -85,12 +85,14 @@ My LeetCode journey — solutions to algorithmic and data structure problems wit
 | [0207-course-schedule](https://github.com/alanfrancis765/LeetCode.io/tree/main/0207-course-schedule/) | Medium |
 | [0210-course-schedule-ii](https://github.com/alanfrancis765/LeetCode.io/tree/main/0210-course-schedule-ii/) | Medium |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/alanfrancis765/LeetCode.io/tree/main/0589-n-ary-tree-preorder-traversal/) | Easy |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/alanfrancis765/LeetCode.io/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/alanfrancis765/LeetCode.io/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0207-course-schedule](https://github.com/alanfrancis765/LeetCode.io/tree/main/0207-course-schedule/) | Medium |
 | [0210-course-schedule-ii](https://github.com/alanfrancis765/LeetCode.io/tree/main/0210-course-schedule-ii/) | Medium |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/alanfrancis765/LeetCode.io/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -118,8 +120,10 @@ My LeetCode journey — solutions to algorithmic and data structure problems wit
 | ------- | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/alanfrancis765/LeetCode.io/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/alanfrancis765/LeetCode.io/tree/main/0589-n-ary-tree-preorder-traversal/) | Easy |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/alanfrancis765/LeetCode.io/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/alanfrancis765/LeetCode.io/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/alanfrancis765/LeetCode.io/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
 <!---LeetCode Topics End-->
