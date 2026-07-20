@@ -84,6 +84,7 @@ My LeetCode journey — solutions to algorithmic and data structure problems wit
 | ------- | ------- |
 | [0207-course-schedule](https://github.com/alanfrancis765/LeetCode.io/tree/main/0207-course-schedule/) | Medium |
 | [0210-course-schedule-ii](https://github.com/alanfrancis765/LeetCode.io/tree/main/0210-course-schedule-ii/) | Medium |
+| [0589-n-ary-tree-preorder-traversal](https://github.com/alanfrancis765/LeetCode.io/tree/main/0589-n-ary-tree-preorder-traversal/) | Easy |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -107,4 +108,12 @@ My LeetCode journey — solutions to algorithmic and data structure problems wit
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0134-gas-station](https://github.com/alanfrancis765/LeetCode.io/tree/main/0134-gas-station/) | Medium |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0589-n-ary-tree-preorder-traversal](https://github.com/alanfrancis765/LeetCode.io/tree/main/0589-n-ary-tree-preorder-traversal/) | Easy |
+## Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0589-n-ary-tree-preorder-traversal](https://github.com/alanfrancis765/LeetCode.io/tree/main/0589-n-ary-tree-preorder-traversal/) | Easy |
 <!---LeetCode Topics End-->
